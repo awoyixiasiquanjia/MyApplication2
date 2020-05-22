@@ -1,0 +1,2 @@
+include  ':test_library'
+rootProject.name='My Application'
